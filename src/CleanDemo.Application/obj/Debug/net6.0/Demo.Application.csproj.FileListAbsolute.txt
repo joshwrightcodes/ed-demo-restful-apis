@@ -1,0 +1,12 @@
+/Users/joshwright/git/ed-demo-restful-apis/src/Demo.Application/obj/Debug/net6.0/Demo.Application.csproj.AssemblyReference.cache
+/Users/joshwright/git/ed-demo-restful-apis/src/Demo.Application/obj/Debug/net6.0/Demo.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshwright/git/ed-demo-restful-apis/src/Demo.Application/obj/Debug/net6.0/Demo.Application.AssemblyInfoInputs.cache
+/Users/joshwright/git/ed-demo-restful-apis/src/Demo.Application/obj/Debug/net6.0/Demo.Application.AssemblyInfo.cs
+/Users/joshwright/git/ed-demo-restful-apis/src/Demo.Application/obj/Debug/net6.0/Demo.Application.csproj.CoreCompileInputs.cache
+/Users/joshwright/git/ed-demo-restful-apis/src/Demo.Application/bin/Debug/net6.0/CleanDemo.Application.deps.json
+/Users/joshwright/git/ed-demo-restful-apis/src/Demo.Application/bin/Debug/net6.0/CleanDemo.Application.dll
+/Users/joshwright/git/ed-demo-restful-apis/src/Demo.Application/bin/Debug/net6.0/ref/CleanDemo.Application.dll
+/Users/joshwright/git/ed-demo-restful-apis/src/Demo.Application/bin/Debug/net6.0/CleanDemo.Application.pdb
+/Users/joshwright/git/ed-demo-restful-apis/src/Demo.Application/obj/Debug/net6.0/CleanDemo.Application.dll
+/Users/joshwright/git/ed-demo-restful-apis/src/Demo.Application/obj/Debug/net6.0/ref/CleanDemo.Application.dll
+/Users/joshwright/git/ed-demo-restful-apis/src/Demo.Application/obj/Debug/net6.0/CleanDemo.Application.pdb

@@ -1,0 +1,44 @@
+{
+  "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
+  "settings": {
+    "documentationRules": {
+      "companyName": "Josh Wright",
+      "copyrightText": "Copyright 2021 {companyName}.\nUse of this source code is governed by an {licenseName}-style, license that can be found\nin the {licenseFile} file or at https://opensource.org/licenses/MIT.",
+      "headerDecoration": "--------------------------------------------------------------------------------",
+      "documentationCulture": "en-AU",
+      "variables": {
+        "licenseName": "MIT",
+        "licenseFile": "LICENSE"
+      }
+    },
+    "indentation": {
+      "indentationSize": 4,
+      "tabSize": 4,
+      "useTabs": false
+    },
+    "orderingRules": {
+      "elementOrder": [
+        "kind",
+        "constant",
+        "accessibility",
+        "static",
+        "readonly"
+      ],
+      "usingDirectivesPlacement": "outsideNamespace",
+      "systemUsingDirectivesFirst": true,
+      "blankLinesBetweenUsingGroups": "omit"
+    },
+    "maintainabilityRules": {
+      "topLevelTypes": [
+        "class",
+        "interface",
+        "struct",
+        "enum"
+      ]
+    },
+    "layoutRules": {
+      "allowConsecutiveUsings": true,
+      "newlineAtEndOfFile": "omit"
+    }
+  }
+}

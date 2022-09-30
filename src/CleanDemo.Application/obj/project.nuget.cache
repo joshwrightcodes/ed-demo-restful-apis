@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "gd9X+5ZHKU8J0jkYNyP9DGU7CHlAe8yYyHjri5U3l+YN8p0KoTObdNa5dO/2cWddf/nqARtDqeCRQ4K8g9O/BA==",
+  "success": true,
+  "projectFilePath": "/Users/joshwright/git/ed-demo-restful-apis/src/CleanDemo.Application/CleanDemo.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/joshwright/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
+    "/Users/joshwright/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "/Users/joshwright/.nuget/packages/fluentvalidation/10.4.0/fluentvalidation.10.4.0.nupkg.sha512",
+    "/Users/joshwright/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.4.0/fluentvalidation.dependencyinjectionextensions.10.4.0.nupkg.sha512",
+    "/Users/joshwright/.nuget/packages/json.more.net/1.4.3/json.more.net.1.4.3.nupkg.sha512",
+    "/Users/joshwright/.nuget/packages/jsonpatch.net/1.1.0/jsonpatch.net.1.1.0.nupkg.sha512",
+    "/Users/joshwright/.nuget/packages/jsonpointer.net/1.4.0/jsonpointer.net.1.4.0.nupkg.sha512",
+    "/Users/joshwright/.nuget/packages/macross.json.extensions/2.0.0/macross.json.extensions.2.0.0.nupkg.sha512",
+    "/Users/joshwright/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
+    "/Users/joshwright/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/joshwright/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/joshwright/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/joshwright/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/joshwright/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/joshwright/.nuget/packages/roslynator.analyzers/4.1.0/roslynator.analyzers.4.1.0.nupkg.sha512",
+    "/Users/joshwright/.nuget/packages/roslynator.codeanalysis.analyzers/4.1.0/roslynator.codeanalysis.analyzers.4.1.0.nupkg.sha512",
+    "/Users/joshwright/.nuget/packages/roslynator.formatting.analyzers/4.1.0/roslynator.formatting.analyzers.4.1.0.nupkg.sha512",
+    "/Users/joshwright/.nuget/packages/sonaranalyzer.csharp/8.37.0.45539/sonaranalyzer.csharp.8.37.0.45539.nupkg.sha512",
+    "/Users/joshwright/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512",
+    "/Users/joshwright/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/joshwright/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

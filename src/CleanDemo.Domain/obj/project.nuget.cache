@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9mpCdWKOrKUsjXXt+70qfcCTVw7fHOR6UumpbY7oLla1uDmLCcKPaVGYD7pxCAqEtWuqGP+UA6VT+R4MAYpJ9A==",
+  "success": true,
+  "projectFilePath": "/Users/joshwright/git/ed-demo-restful-apis/src/CleanDemo.Domain/CleanDemo.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/joshwright/.nuget/packages/roslynator.analyzers/4.1.0/roslynator.analyzers.4.1.0.nupkg.sha512",
+    "/Users/joshwright/.nuget/packages/roslynator.codeanalysis.analyzers/4.1.0/roslynator.codeanalysis.analyzers.4.1.0.nupkg.sha512",
+    "/Users/joshwright/.nuget/packages/roslynator.formatting.analyzers/4.1.0/roslynator.formatting.analyzers.4.1.0.nupkg.sha512",
+    "/Users/joshwright/.nuget/packages/sonaranalyzer.csharp/8.37.0.45539/sonaranalyzer.csharp.8.37.0.45539.nupkg.sha512",
+    "/Users/joshwright/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

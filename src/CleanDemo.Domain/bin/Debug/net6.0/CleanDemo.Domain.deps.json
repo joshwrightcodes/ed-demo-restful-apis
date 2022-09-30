@@ -1,0 +1,70 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CleanDemo.Domain/1.0.0": {
+        "dependencies": {
+          "Roslynator.Analyzers": "4.1.0",
+          "Roslynator.CodeAnalysis.Analyzers": "4.1.0",
+          "Roslynator.Formatting.Analyzers": "4.1.0",
+          "SonarAnalyzer.CSharp": "8.37.0.45539",
+          "StyleCop.Analyzers": "1.1.118"
+        },
+        "runtime": {
+          "CleanDemo.Domain.dll": {}
+        }
+      },
+      "Roslynator.Analyzers/4.1.0": {},
+      "Roslynator.CodeAnalysis.Analyzers/4.1.0": {},
+      "Roslynator.Formatting.Analyzers/4.1.0": {},
+      "SonarAnalyzer.CSharp/8.37.0.45539": {},
+      "StyleCop.Analyzers/1.1.118": {}
+    }
+  },
+  "libraries": {
+    "CleanDemo.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Roslynator.Analyzers/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xTSs7KdwhIUOTqEubcfW043o0dpSjKpNF+C6Aj5OuJv69rVJ0ypjChNeeXRALB2I1S9W1+qmgbVWYg7qftgoCA==",
+      "path": "roslynator.analyzers/4.1.0",
+      "hashPath": "roslynator.analyzers.4.1.0.nupkg.sha512"
+    },
+    "Roslynator.CodeAnalysis.Analyzers/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TaR8RyhIpGx1qU/MSz7tc1+PNaRLSs5kbNrASiudEsvT6Ew88B/TALLiDg+7HxKrFWQr2NeGzS62SJLCckQGCA==",
+      "path": "roslynator.codeanalysis.analyzers/4.1.0",
+      "hashPath": "roslynator.codeanalysis.analyzers.4.1.0.nupkg.sha512"
+    },
+    "Roslynator.Formatting.Analyzers/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-07+FEc9pS1HRK6r8ImX1BljB8VdbGKDolhM+i0FFxxipiHfSckm6qSggPCf4PWIVe9WYYYYMKdhc9xFOKBN3FA==",
+      "path": "roslynator.formatting.analyzers/4.1.0",
+      "hashPath": "roslynator.formatting.analyzers.4.1.0.nupkg.sha512"
+    },
+    "SonarAnalyzer.CSharp/8.37.0.45539": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5bv2bM7PKrUi7+eoLQF8oXBjaPSGkSed2ahoeYfWlX8o2BSLZE6witne1CNbUNesLICtyCXk6AqtTJczGbJlCA==",
+      "path": "sonaranalyzer.csharp/8.37.0.45539",
+      "hashPath": "sonaranalyzer.csharp.8.37.0.45539.nupkg.sha512"
+    },
+    "StyleCop.Analyzers/1.1.118": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Onx6ovGSqXSK07n/0eM3ZusiNdB6cIlJdabQhWGgJp3Vooy9AaLS/tigeybOJAobqbtggTamoWndz72JscZBvw==",
+      "path": "stylecop.analyzers/1.1.118",
+      "hashPath": "stylecop.analyzers.1.1.118.nupkg.sha512"
+    }
+  }
+}

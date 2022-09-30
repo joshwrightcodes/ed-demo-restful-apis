@@ -1,0 +1,12 @@
+/Users/joshwright/git/ed-demo-restful-apis/src/Demo.Infrastructure/bin/Debug/net6.0/CleanDemo.Infrastructure.deps.json
+/Users/joshwright/git/ed-demo-restful-apis/src/Demo.Infrastructure/bin/Debug/net6.0/CleanDemo.Infrastructure.dll
+/Users/joshwright/git/ed-demo-restful-apis/src/Demo.Infrastructure/bin/Debug/net6.0/ref/CleanDemo.Infrastructure.dll
+/Users/joshwright/git/ed-demo-restful-apis/src/Demo.Infrastructure/bin/Debug/net6.0/CleanDemo.Infrastructure.pdb
+/Users/joshwright/git/ed-demo-restful-apis/src/Demo.Infrastructure/obj/Debug/net6.0/Demo.Infrastructure.csproj.AssemblyReference.cache
+/Users/joshwright/git/ed-demo-restful-apis/src/Demo.Infrastructure/obj/Debug/net6.0/Demo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshwright/git/ed-demo-restful-apis/src/Demo.Infrastructure/obj/Debug/net6.0/Demo.Infrastructure.AssemblyInfoInputs.cache
+/Users/joshwright/git/ed-demo-restful-apis/src/Demo.Infrastructure/obj/Debug/net6.0/Demo.Infrastructure.AssemblyInfo.cs
+/Users/joshwright/git/ed-demo-restful-apis/src/Demo.Infrastructure/obj/Debug/net6.0/Demo.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/joshwright/git/ed-demo-restful-apis/src/Demo.Infrastructure/obj/Debug/net6.0/CleanDemo.Infrastructure.dll
+/Users/joshwright/git/ed-demo-restful-apis/src/Demo.Infrastructure/obj/Debug/net6.0/ref/CleanDemo.Infrastructure.dll
+/Users/joshwright/git/ed-demo-restful-apis/src/Demo.Infrastructure/obj/Debug/net6.0/CleanDemo.Infrastructure.pdb
